@@ -1,6 +1,6 @@
 # BancoDigital
 
-revisionInstrucciones para la Preparación del Ambiente de Pruebas
+Instrucciones para la Preparación del Ambiente de Pruebas
 Requisitos Previos
 •	PHP >= 7.0 instalado en el sistema.
 •	Servidor web local (por ejemplo, Apache o XAMPP) configurado y en funcionamiento.
