@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /bancoDigital/
+
+RewriteRule ^views/dashboard.php$ index.php?action=dashboard [L,R=301]
+RewriteRule ^views/login.php$ index.php?action=login [L,R=301]
+RewriteRule ^views/register.php$ index.php?action=register [L,R=301]
